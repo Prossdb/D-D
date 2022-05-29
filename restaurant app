@@ -1,0 +1,10 @@
+# restuarant app.
+This restaurent app searches for close by restaurents and give details about them. It uses APIs to help you search for restaurents.
+
+
+
+![alt tag]restaurent app
+
+## How It's Made:
+
+**Tech used:** Tailwind, Node.js, Next.js and JavaScript.
